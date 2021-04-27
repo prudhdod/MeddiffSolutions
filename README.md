@@ -1,6 +1,6 @@
 
 # MeddiffSolutions
-This is te solution for Meddiff coding test with 5 coding questions
+This is to solution for Meddiff coding test with 5 coding questions
 
 **Problem #1**
 Implement a group_by_owners function that:
