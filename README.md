@@ -1,3 +1,4 @@
+
 # MeddiffSolutions
 This is te solution for Meddiff coding test with 5 coding questions
 
@@ -62,3 +63,8 @@ The single the record shall contain the following information:
 
 The application should have the ability to INSERT, DELETE, UPDATE & SEARCH records.
 Please Note: this application should not use any DATABASE.
+
+**Solution:**
+![Output5_1](https://user-images.githubusercontent.com/43106192/116195340-b3755c00-a74f-11eb-8335-b8481e9924ea.PNG)
+![Output5_2](https://user-images.githubusercontent.com/43106192/116195334-b1ab9880-a74f-11eb-87a1-e9c33ba7c3a0.PNG)
+![Output5_3](https://user-images.githubusercontent.com/43106192/116195341-b40df280-a74f-11eb-8df9-e3769434700c.PNG)
